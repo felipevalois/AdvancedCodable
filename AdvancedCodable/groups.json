@@ -1,0 +1,76 @@
+{
+    "group": [
+        {
+            "name": "A",
+            "teams": [
+                "Club Brugge",
+                "Galatasaray",
+                "Paris Saint German",
+                "Real Madrid"
+            ]
+        },
+        {
+            "name": "B",
+            "teams": [
+                "Olympiacos",
+                "Tottenham",
+                "Bayern",
+                "Real Madrid"
+            ]
+        },
+        {
+            "name": "C",
+            "teams": [
+                "Atalanta",
+                "Dinamo Zagreb",
+                "Manchester City",
+                "Shakhtar Donetsk"
+            ]
+        },
+        {
+            "name": "D",
+            "teams": [
+                "Atletico Madrid",
+                "Juventus",
+                "Leverkusen",
+                "Lokomotiv Moskva"
+            ]
+        },
+        {
+            "name": "E",
+            "teams": [
+                "Genk",
+                "Liverpool",
+                "Napoli",
+                "Salzburg"
+            ]
+        },
+        {
+            "name": "F",
+            "teams": [
+                "Barcelona",
+                "Borussia",
+                "Inter",
+                "Slavia Praha"
+            ]
+        },
+        {
+            "name": "G",
+            "teams": [
+                "Benfica",
+                "Leipzig",
+                "Lyon",
+                "Zenit"
+            ]
+        },
+        {
+            "name": "H",
+            "teams": [
+                "Ajax",
+                "Chelsea",
+                "Lille",
+                "Valencia"
+            ]
+        }
+    ]
+}

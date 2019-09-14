@@ -1,0 +1,675 @@
+{
+    "matches": [
+        {
+            "date": "17/09/2019 18:55",
+            "location": "Stadio San Siro",
+            "HomeTeam": "Internazionale",
+            "AwayTeam": "Slavia Praha",
+            "group": "F"
+        },
+        {
+            "date": "17/09/2019 18:55",
+            "location": "OL Stadium",
+            "HomeTeam": "Lyon",
+            "AwayTeam": "Zenit",
+            "group": "G"
+        },
+        {
+            "date": "17/09/2019 21:00",
+            "location": "Stadio San Paolo",
+            "HomeTeam": "Napoli",
+            "AwayTeam": "Liverpool",
+            "group": "E"
+        },
+        {
+            "date": "17/09/2019 21:00",
+            "location": "Red Bull Arena",
+            "HomeTeam": "Salzburg",
+            "AwayTeam": "Genk",
+            "group": "E"
+        },
+        {
+            "date": "17/09/2019 21:00",
+            "location": "BVB Stadion Dortmund",
+            "HomeTeam": "Dortmund",
+            "AwayTeam": "Barcelona",
+            "group": "F"
+        },
+        {
+            "date": "17/09/2019 21:00",
+            "location": "Estadio do Sport Lisboa e Benfica",
+            "HomeTeam": "Benfica",
+            "AwayTeam": "Leipzig",
+            "group": "G"
+        },
+        {
+            "date": "17/09/2019 21:00",
+            "location": "Stamford Bridge",
+            "HomeTeam": "Chelsea",
+            "AwayTeam": "Valencia",
+            "group": "H"
+        },
+        {
+            "date": "17/09/2019 21:00",
+            "location": "Johan Cruijff ArenA",
+            "HomeTeam": "Ajax",
+            "AwayTeam": "LOSC",
+            "group": "H"
+        },
+        {
+            "date": "18/09/2019 18:55",
+            "location": "Jan Breydelstadion",
+            "HomeTeam": "Club Brugge",
+            "AwayTeam": "Galatasaray",
+            "group": "A"
+        },
+        {
+            "date": "18/09/2019 18:55",
+            "location": "Stadio Georgios Karaiskakis",
+            "HomeTeam": "Olympiacos",
+            "AwayTeam": "Tottenham",
+            "group": "B"
+        },
+        {
+            "date": "18/09/2019 21:00",
+            "location": "Parc des Princes",
+            "HomeTeam": "Paris",
+            "AwayTeam": "Real Madrid",
+            "group": "A"
+        },
+        {
+            "date": "18/09/2019 21:00",
+            "location": "Football Arena Munich",
+            "HomeTeam": "Bayern",
+            "AwayTeam": "Crvena zvezda",
+            "group": "B"
+        },
+        {
+            "date": "18/09/2019 21:00",
+            "location": "Stadion Maksimir",
+            "HomeTeam": "Dinamo Zagreb",
+            "AwayTeam": "Atalanta",
+            "group": "C"
+        },
+        {
+            "date": "18/09/2019 21:00",
+            "location": "OSK Metalist Stadion",
+            "HomeTeam": "Shakhtar Donetsk",
+            "AwayTeam": "Man. City",
+            "group": "C"
+        },
+        {
+            "date": "18/09/2019 21:00",
+            "location": "BayArena",
+            "HomeTeam": "Leverkusen",
+            "AwayTeam": "Lokomotiv Moskva",
+            "group": "D"
+        },
+        {
+            "date": "18/09/2019 21:00",
+            "location": "Estadio Metropolitano",
+            "HomeTeam": "Atl√©tico",
+            "AwayTeam": "Juventus",
+            "group": "D"
+        },
+        {
+            "date": "1/10/19 18:55",
+            "location": "Estadio Santiago Bernab√©u",
+            "HomeTeam": "Real Madrid",
+            "AwayTeam": "Club Brugge",
+            "group": "A"
+        },
+        {
+            "date": "1/10/19 18:55",
+            "location": "Stadio San Siro",
+            "HomeTeam": "Atalanta",
+            "AwayTeam": "Shakhtar Donetsk",
+            "group": "C"
+        },
+        {
+            "date": "1/10/19 21:00",
+            "location": "Ali Sami Yen Spor Kompleksi",
+            "HomeTeam": "Galatasaray",
+            "AwayTeam": "Paris",
+            "group": "A"
+        },
+        {
+            "date": "1/10/19 21:00",
+            "location": "Tottenham Hotspur Stadium",
+            "HomeTeam": "Tottenham",
+            "AwayTeam": "Bayern",
+            "group": "B"
+        },
+        {
+            "date": "1/10/19 21:00",
+            "location": "Stadion Rajko Mitic",
+            "HomeTeam": "Crvena zvezda",
+            "AwayTeam": "Olympiacos",
+            "group": "B"
+        },
+        {
+            "date": "1/10/19 21:00",
+            "location": "City of Manchester Stadium",
+            "HomeTeam": "Man. City",
+            "AwayTeam": "Dinamo Zagreb",
+            "group": "C"
+        },
+        {
+            "date": "1/10/19 21:00",
+            "location": "Juventus Stadium",
+            "HomeTeam": "Juventus",
+            "AwayTeam": "Leverkusen",
+            "group": "D"
+        },
+        {
+            "date": "1/10/19 21:00",
+            "location": "Stadion Lokomotiv",
+            "HomeTeam": "Lokomotiv Moskva",
+            "AwayTeam": "Atl√©tico",
+            "group": "D"
+        },
+        {
+            "date": "2/10/19 18:55",
+            "location": "KRC Genk Arena",
+            "HomeTeam": "Genk",
+            "AwayTeam": "Napoli",
+            "group": "E"
+        },
+        {
+            "date": "2/10/19 18:55",
+            "location": "Eden Arena",
+            "HomeTeam": "Slavia Praha",
+            "AwayTeam": "Dortmund",
+            "group": "F"
+        },
+        {
+            "date": "2/10/19 21:00",
+            "location": "Anfield",
+            "HomeTeam": "Liverpool",
+            "AwayTeam": "Salzburg",
+            "group": "E"
+        },
+        {
+            "date": "2/10/19 21:00",
+            "location": "Camp Nou",
+            "HomeTeam": "Barcelona",
+            "AwayTeam": "Internazionale",
+            "group": "F"
+        },
+        {
+            "date": "2/10/19 21:00",
+            "location": "RB Arena",
+            "HomeTeam": "Leipzig",
+            "AwayTeam": "Lyon",
+            "group": "G"
+        },
+        {
+            "date": "2/10/19 21:00",
+            "location": "Saint Petersburg Stadium",
+            "HomeTeam": "Zenit",
+            "AwayTeam": "Benfica",
+            "group": "G"
+        },
+        {
+            "date": "2/10/19 21:00",
+            "location": "Stade Pierre Mauroy",
+            "HomeTeam": "LOSC",
+            "AwayTeam": "Chelsea",
+            "group": "H"
+        },
+        {
+            "date": "2/10/19 21:00",
+            "location": "Camp de Mestalla",
+            "HomeTeam": "Valencia",
+            "AwayTeam": "Ajax",
+            "group": "H"
+        },
+        {
+            "date": "22/10/2019 18:55",
+            "location": "OSK Metalist Stadion",
+            "HomeTeam": "Shakhtar Donetsk",
+            "AwayTeam": "Dinamo Zagreb",
+            "group": "C"
+        },
+        {
+            "date": "22/10/2019 18:55",
+            "location": "Estadio Metropolitano",
+            "HomeTeam": "Atl√©tico",
+            "AwayTeam": "Leverkusen",
+            "group": "D"
+        },
+        {
+            "date": "22/10/2019 21:00",
+            "location": "Jan Breydelstadion",
+            "HomeTeam": "Club Brugge",
+            "AwayTeam": "Paris",
+            "group": "A"
+        },
+        {
+            "date": "22/10/2019 21:00",
+            "location": "Ali Sami Yen Spor Kompleksi",
+            "HomeTeam": "Galatasaray",
+            "AwayTeam": "Real Madrid",
+            "group": "A"
+        },
+        {
+            "date": "22/10/2019 21:00",
+            "location": "Stadio Georgios Karaiskakis",
+            "HomeTeam": "Olympiacos",
+            "AwayTeam": "Bayern",
+            "group": "B"
+        },
+        {
+            "date": "22/10/2019 21:00",
+            "location": "Tottenham Hotspur Stadium",
+            "HomeTeam": "Tottenham",
+            "AwayTeam": "Crvena zvezda",
+            "group": "B"
+        },
+        {
+            "date": "22/10/2019 21:00",
+            "location": "City of Manchester Stadium",
+            "HomeTeam": "Man. City",
+            "AwayTeam": "Atalanta",
+            "group": "C"
+        },
+        {
+            "date": "22/10/2019 21:00",
+            "location": "Juventus Stadium",
+            "HomeTeam": "Juventus",
+            "AwayTeam": "Lokomotiv Moskva",
+            "group": "D"
+        },
+        {
+            "date": "23/10/2019 18:55",
+            "location": "RB Arena",
+            "HomeTeam": "Leipzig",
+            "AwayTeam": "Zenit",
+            "group": "G"
+        },
+        {
+            "date": "23/10/2019 18:55",
+            "location": "Johan Cruijff ArenA",
+            "HomeTeam": "Ajax",
+            "AwayTeam": "Chelsea",
+            "group": "H"
+        },
+        {
+            "date": "23/10/2019 21:00",
+            "location": "Red Bull Arena",
+            "HomeTeam": "Salzburg",
+            "AwayTeam": "Napoli",
+            "group": "E"
+        },
+        {
+            "date": "23/10/2019 21:00",
+            "location": "KRC Genk Arena",
+            "HomeTeam": "Genk",
+            "AwayTeam": "Liverpool",
+            "group": "E"
+        },
+        {
+            "date": "23/10/2019 21:00",
+            "location": "Stadio San Siro",
+            "HomeTeam": "Internazionale",
+            "AwayTeam": "Dortmund",
+            "group": "F"
+        },
+        {
+            "date": "23/10/2019 21:00",
+            "location": "Eden Arena",
+            "HomeTeam": "Slavia Praha",
+            "AwayTeam": "Barcelona",
+            "group": "F"
+        },
+        {
+            "date": "23/10/2019 21:00",
+            "location": "Est√°dio do Sport Lisboa e Benfica",
+            "HomeTeam": "Benfica",
+            "AwayTeam": "Lyon",
+            "group": "G"
+        },
+        {
+            "date": "23/10/2019 21:00",
+            "location": "Stade Pierre Mauroy",
+            "HomeTeam": "LOSC",
+            "AwayTeam": "Valencia",
+            "group": "H"
+        },
+        {
+            "date": "5/11/19 18:55",
+            "location": "Camp Nou",
+            "HomeTeam": "Barcelona",
+            "AwayTeam": "Slavia Praha",
+            "group": "F"
+        },
+        {
+            "date": "5/11/19 18:55",
+            "location": "Saint Petersburg Stadium",
+            "HomeTeam": "Zenit",
+            "AwayTeam": "Leipzig",
+            "group": "G"
+        },
+        {
+            "date": "5/11/19 21:00",
+            "location": "Stadio San Paolo",
+            "HomeTeam": "Napoli",
+            "AwayTeam": "Salzburg",
+            "group": "E"
+        },
+        {
+            "date": "5/11/19 21:00",
+            "location": "Anfield",
+            "HomeTeam": "Liverpool",
+            "AwayTeam": "Genk",
+            "group": "E"
+        },
+        {
+            "date": "5/11/19 21:00",
+            "location": "BVB Stadion Dortmund",
+            "HomeTeam": "Dortmund",
+            "AwayTeam": "Internazionale",
+            "group": "F"
+        },
+        {
+            "date": "5/11/19 21:00",
+            "location": "OL Stadium",
+            "HomeTeam": "Lyon",
+            "AwayTeam": "Benfica",
+            "group": "G"
+        },
+        {
+            "date": "5/11/19 21:00",
+            "location": "Stamford Bridge",
+            "HomeTeam": "Chelsea",
+            "AwayTeam": "Ajax",
+            "group": "H"
+        },
+        {
+            "date": "5/11/19 21:00",
+            "location": "Camp de Mestalla",
+            "HomeTeam": "Valencia",
+            "AwayTeam": "LOSC",
+            "group": "H"
+        },
+        {
+            "date": "6/11/19 18:55",
+            "location": "Football Arena Munich",
+            "HomeTeam": "Bayern",
+            "AwayTeam": "Olympiacos",
+            "group": "B"
+        },
+        {
+            "date": "6/11/19 18:55",
+            "location": "Stadion Lokomotiv",
+            "HomeTeam": "Lokomotiv Moskva",
+            "AwayTeam": "Juventus",
+            "group": "D"
+        },
+        {
+            "date": "6/11/19 21:00",
+            "location": "Parc des Princes",
+            "HomeTeam": "Paris",
+            "AwayTeam": "Club Brugge",
+            "group": "A"
+        },
+        {
+            "date": "6/11/19 21:00",
+            "location": "Estadio Santiago Bernab√©u",
+            "HomeTeam": "Real Madrid",
+            "AwayTeam": "Galatasaray",
+            "group": "A"
+        },
+        {
+            "date": "6/11/19 21:00",
+            "location": "Stadion Rajko Mitic",
+            "HomeTeam": "Crvena zvezda",
+            "AwayTeam": "Tottenham",
+            "group": "B"
+        },
+        {
+            "date": "6/11/19 21:00",
+            "location": "Stadion Maksimir",
+            "HomeTeam": "Dinamo Zagreb",
+            "AwayTeam": "Shakhtar Donetsk",
+            "group": "C"
+        },
+        {
+            "date": "6/11/19 21:00",
+            "location": "Stadio San Siro",
+            "HomeTeam": "Atalanta",
+            "AwayTeam": "Man. City",
+            "group": "C"
+        },
+        {
+            "date": "6/11/19 21:00",
+            "location": "BayArena",
+            "HomeTeam": "Leverkusen",
+            "AwayTeam": "Atl√©tico",
+            "group": "D"
+        },
+        {
+            "date": "26/11/2019 18:55",
+            "location": "Ali Sami Yen Spor Kompleksi",
+            "HomeTeam": "Galatasaray",
+            "AwayTeam": "Club Brugge",
+            "group": "A"
+        },
+        {
+            "date": "26/11/2019 18:55",
+            "location": "Stadion Lokomotiv",
+            "HomeTeam": "Lokomotiv Moskva",
+            "AwayTeam": "Leverkusen",
+            "group": "D"
+        },
+        {
+            "date": "26/11/2019 21:00",
+            "location": "Estadio Santiago Bernab√©u",
+            "HomeTeam": "Real Madrid",
+            "AwayTeam": "Paris",
+            "group": "A"
+        },
+        {
+            "date": "26/11/2019 21:00",
+            "location": "Stadion Rajko Mitic",
+            "HomeTeam": "Crvena zvezda",
+            "AwayTeam": "Bayern",
+            "group": "B"
+        },
+        {
+            "date": "26/11/2019 21:00",
+            "location": "Tottenham Hotspur Stadium",
+            "HomeTeam": "Tottenham",
+            "AwayTeam": "Olympiacos",
+            "group": "B"
+        },
+        {
+            "date": "26/11/2019 21:00",
+            "location": "Stadio San Siro",
+            "HomeTeam": "Atalanta",
+            "AwayTeam": "Dinamo Zagreb",
+            "group": "C"
+        },
+        {
+            "date": "26/11/2019 21:00",
+            "location": "City of Manchester Stadium",
+            "HomeTeam": "Man. City",
+            "AwayTeam": "Shakhtar Donetsk",
+            "group": "C"
+        },
+        {
+            "date": "26/11/2019 21:00",
+            "location": "Juventus Stadium",
+            "HomeTeam": "Juventus",
+            "AwayTeam": "Atl√©tico",
+            "group": "D"
+        },
+        {
+            "date": "27/11/2019 18:55",
+            "location": "Saint Petersburg Stadium",
+            "HomeTeam": "Zenit",
+            "AwayTeam": "Lyon",
+            "group": "G"
+        },
+        {
+            "date": "27/11/2019 18:55",
+            "location": "Camp de Mestalla",
+            "HomeTeam": "Valencia",
+            "AwayTeam": "Chelsea",
+            "group": "H"
+        },
+        {
+            "date": "27/11/2019 21:00",
+            "location": "Anfield",
+            "HomeTeam": "Liverpool",
+            "AwayTeam": "Napoli",
+            "group": "E"
+        },
+        {
+            "date": "27/11/2019 21:00",
+            "location": "KRC Genk Arena",
+            "HomeTeam": "Genk",
+            "AwayTeam": "Salzburg",
+            "group": "E"
+        },
+        {
+            "date": "27/11/2019 21:00",
+            "location": "Camp Nou",
+            "HomeTeam": "Barcelona",
+            "AwayTeam": "Dortmund",
+            "group": "F"
+        },
+        {
+            "date": "27/11/2019 21:00",
+            "location": "Eden Arena",
+            "HomeTeam": "Slavia Praha",
+            "AwayTeam": "Internazionale",
+            "group": "F"
+        },
+        {
+            "date": "27/11/2019 21:00",
+            "location": "RB Arena",
+            "HomeTeam": "Leipzig",
+            "AwayTeam": "Benfica",
+            "group": "G"
+        },
+        {
+            "date": "27/11/2019 21:00",
+            "location": "Stade Pierre Mauroy",
+            "HomeTeam": "LOSC",
+            "AwayTeam": "Ajax",
+            "group": "H"
+        },
+        {
+            "date": "10/12/19 18:55",
+            "location": "Stadio San Paolo",
+            "HomeTeam": "Napoli",
+            "AwayTeam": "Genk",
+            "group": "E"
+        },
+        {
+            "date": "10/12/19 18:55",
+            "location": "Red Bull Arena",
+            "HomeTeam": "Salzburg",
+            "AwayTeam": "Liverpool",
+            "group": "E"
+        },
+        {
+            "date": "10/12/19 21:00",
+            "location": "BVB Stadion Dortmund",
+            "HomeTeam": "Dortmund",
+            "AwayTeam": "Slavia Praha",
+            "group": "F"
+        },
+        {
+            "date": "10/12/19 21:00",
+            "location": "Stadio San Siro",
+            "HomeTeam": "Internazionale",
+            "AwayTeam": "Barcelona",
+            "group": "F"
+        },
+        {
+            "date": "10/12/19 21:00",
+            "location": "OL Stadium",
+            "HomeTeam": "Lyon",
+            "AwayTeam": "Leipzig",
+            "group": "G"
+        },
+        {
+            "date": "10/12/19 21:00",
+            "location": "Est√°dio do Sport Lisboa e Benfica",
+            "HomeTeam": "Benfica",
+            "AwayTeam": "Zenit",
+            "group": "G"
+        },
+        {
+            "date": "10/12/19 21:00",
+            "location": "Stamford Bridge",
+            "HomeTeam": "Chelsea",
+            "AwayTeam": "LOSC",
+            "group": "H"
+        },
+        {
+            "date": "10/12/19 21:00",
+            "location": "Johan Cruijff ArenA",
+            "HomeTeam": "Ajax",
+            "AwayTeam": "Valencia",
+            "group": "H"
+        },
+        {
+            "date": "11/12/19 18:55",
+            "location": "Stadion Maksimir",
+            "HomeTeam": "Dinamo Zagreb",
+            "AwayTeam": "Man. City",
+            "group": "C"
+        },
+        {
+            "date": "11/12/19 18:55",
+            "location": "OSK Metalist Stadion",
+            "HomeTeam": "Shakhtar Donetsk",
+            "AwayTeam": "Atalanta",
+            "group": "C"
+        },
+        {
+            "date": "11/12/19 21:00",
+            "location": "Parc des Princes",
+            "HomeTeam": "Paris",
+            "AwayTeam": "Galatasaray",
+            "group": "A"
+        },
+        {
+            "date": "11/12/19 21:00",
+            "location": "Jan Breydelstadion",
+            "HomeTeam": "Club Brugge",
+            "AwayTeam": "Real Madrid",
+            "group": "A"
+        },
+        {
+            "date": "11/12/19 21:00",
+            "location": "Football Arena Munich",
+            "HomeTeam": "Bayern",
+            "AwayTeam": "Tottenham",
+            "group": "B"
+        },
+        {
+            "date": "11/12/19 21:00",
+            "location": "Stadio Georgios Karaiskakis",
+            "HomeTeam": "Olympiacos",
+            "AwayTeam": "Crvena zvezda",
+            "group": "B"
+        },
+        {
+            "date": "11/12/19 21:00",
+            "location": "BayArena",
+            "HomeTeam": "Leverkusen",
+            "AwayTeam": "Juventus",
+            "group": "D"
+        },
+        {
+            "date": "11/12/19 21:00",
+            "location": "Estadio Metropolitano",
+            "HomeTeam": "Atl√©tico",
+            "AwayTeam": "Lokomotiv Moskva",
+            "group": "D"
+        }]
+}
